@@ -1,0 +1,44 @@
+body {
+   background-color: DarkBlue;
+}
+
+h1 {
+   color: black;
+   background-color: dodgerblue;
+   font-family: ;
+   text-align: center;
+}
+
+h2 {
+   color: black
+   background-color: mediumseagreen;
+   font-family: Courier New;
+   text-align: center;
+}
+
+p {
+   color: #33B8FF;
+   font-family: Comic Sans MS;'
+}
+
+.border1 {
+   border-style: ridge;
+   border-width: 8px;
+   border-color: blue;
+}
+
+
+.border2 {
+   border-style: dotted;
+   border-width: 8px;
+   border-color: green;
+}
+
+.border3 {
+   border-style: solid;
+   border-width: 6px;
+   border-color: orange;
+
+.center {
+   text-align: center;
+}
