@@ -5,7 +5,7 @@ body {
 h1 {
    color: black;
    background-color: dodgerblue;
-   font-family: ;
+   font-family: Impact;
    text-align: center;
 }
 
@@ -13,6 +13,12 @@ h2 {
    color: white;
    font-family: Courier New;
    text-align: center;
+}
+
+h3 {
+   color: white;
+   font-family: Minecraft;
+   text-align: Center;
 }
 
 p {
@@ -40,4 +46,9 @@ p {
 
 .center {
    text-align: center;
+}
+
+@font-face {
+   font-family: Minecraft;
+   src: url(Minecraft.ttf);
 }
