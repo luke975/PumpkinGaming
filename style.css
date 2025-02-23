@@ -50,5 +50,9 @@ p {
 
 @font-face {
    font-family: Minecraft;
-   src: url(Minecraft.ttf);
+   src: url(/Minecraft.ttf);
+}
+
+* {
+   font-family: Minecraft;
 }
