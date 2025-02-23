@@ -1,2 +1,2 @@
 # Pumpkin Gaming
-A gaming website
+A gaming website ment to run on school chromebooks.
